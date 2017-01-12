@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cadastro Alunos</string>
+    <string name="editar_dialog_mesnagem">Você clicou em editar</string>
+    <string name="dialog_ok">Deletar</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="dialog_message">Deseja realmente deletar?</string>
+</resources>
